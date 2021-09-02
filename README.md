@@ -19,17 +19,17 @@
 
 
 ### How to run 
-  * Python, OpenGL, and SDL are required to run 
-  * Navigate to ./ModelParserAndDecimator/part1 and in the terminal run ```python3 build.py```
-  * Then from the terminal run ```./lab``` to run the executable and display a mesh
+  1. Python, OpenGL, and SDL are required to run 
+  2. Navigate to ./ModelParserAndDecimator/part1 and in the terminal run ```python3 build.py```
+  3. Then from the terminal run ```./lab``` to run the executable and display a mesh
 
 
 ### Commands
-  * Press w to toggle wireframe mode
-  * Press number keys to decimate mesh by a percentage 
+  1. Press w to toggle wireframe mode
+  2. Press number keys to decimate mesh by a percentage 
     * 1 is 10%, 2 is 20%, and so on
     * 0 is 99%
-  * Press spacebar to switch to a new model
+  3. Press spacebar to switch to a new model
 
 
 ### External resources used: 
