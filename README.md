@@ -21,7 +21,8 @@
 ### How to run 
   1. Python, OpenGL, and SDL are required to run 
   2. Navigate to ./ModelParserAndDecimator/part1 and in the terminal run ```python3 build.py```
-  3. Then from the terminal run ```./lab``` to run the executable and display a mesh
+  3. Then from the terminal run ```./lab``` to run the executable.
+  4. A SDL window will pop up and display a mesh, allowing decimation functionality. See the window commands below. 
 
 
 ### Commands
